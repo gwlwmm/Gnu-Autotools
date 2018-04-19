@@ -16,5 +16,17 @@ autotools本质上是根据一系列配置，生成Makefile，而后，可以使
 
 ## 工具链详细介绍
 
+### autoscan
+
+### aclocal
+
+### autoconf
+
+### autoheader
+
+### automake
+
+## 编译
+
 
 
