@@ -14,6 +14,10 @@ autotools本质上是根据一系列配置，生成Makefile，而后，可以使
 
 工具链基本工作原理：展开宏定义，或者根据模板输入文件，产生输出文件。
 
+开发者必须编写的文件是：configure.ac、Makefile.am
+
+开发者可选编写的文件是：config.h.in、aclocal.m4
+
 ## 工具链详细介绍
 
 ### autoscan
